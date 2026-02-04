@@ -84,7 +84,7 @@ kafka-project/
 ├── README.md
 └── venv/
 
-
+```
 ---
 
 ## ⚠️ Important Environment Note (Very Important)
