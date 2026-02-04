@@ -58,7 +58,7 @@ Amazon Athena (SQL Analytics)
 
 ## 📁 Project Structure
 
-
+```text
 kafka-project/
 │
 ├── docker-compose.yml
